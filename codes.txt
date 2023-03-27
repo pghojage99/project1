@@ -1,1 +1,2 @@
 cheatcodes
+psuedocodes for coder
